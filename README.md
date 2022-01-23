@@ -60,6 +60,6 @@ I will ofcourse continue develop with React and get Pro with itm yes it's wasy b
 
 ## Author
 
-- Website - [Omar A.](https://www.your-site.com)
+- Instagram - [5iici](https://www.instagram.com/5iici)
 - Frontend Mentor - [@i-5iici](https://www.frontendmentor.io/profile/i-5iici)
 - Twitter - [@5_iici](https://www.twitter.com/5_iici)
